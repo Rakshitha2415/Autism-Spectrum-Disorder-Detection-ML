@@ -77,7 +77,7 @@ Run the app locally or deploy it on Hugging Face Spaces.
 ### To Run the App
 
 ```bash
-streamlit run autism_app.py
+streamlit run app.py
 ```
 
 ---
@@ -86,7 +86,7 @@ streamlit run autism_app.py
 
 ```
 asd-predictor/
-├── autism_app.py       # Streamlit web app
+├── app.py       # Streamlit web app
 ├── autismData.csv      # Input dataset
 ├── requirements.txt    # Python dependencies
 ├── README.md           # Project overview
@@ -121,7 +121,7 @@ pip install -r requirements.txt
 ### 3. Launch the Streamlit App:
 
 ```bash
-streamlit run autism_app.py
+streamlit run app.py
 ```
 
 ---
@@ -135,9 +135,8 @@ streamlit run autism_app.py
 
 ## 📬 Contact
 
-For questions or feedback, please open an issue or reach out via [GitHub](https://github.com/yourusername).
+For questions or feedback, please open an issue or reach out via [GitHub](https://github.com/yourusername). https://huggingface.co/spaces/Rakshitha2415/ASD_detection
 
 ---
 
-**🧠 Let's help make early ASD screening more accessible through ML!**
 
