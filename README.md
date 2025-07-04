@@ -74,6 +74,8 @@ Run the app locally or deploy it on Hugging Face Spaces.
 - 🔮 Predict ASD using custom input (AQ responses, age, sex, etc.)
 - ✅ Final message: "Autism Detected" or "No Autism Detected"
 
+- 💻 Hugging Face Demo:https://huggingface.co/spaces/Rakshitha2415/ASD_detection
+
 ### To Run the App
 
 ```bash
@@ -130,12 +132,6 @@ streamlit run app.py
 
 - Dr. Fadi Thabtah for the dataset
 - UCI Machine Learning Repository
-
----
-
-## 📬 Contact
-
-For questions or feedback, please open an issue or reach out via [GitHub](https://github.com/yourusername). https://huggingface.co/spaces/Rakshitha2415/ASD_detection
 
 ---
 
